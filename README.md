@@ -1,4 +1,4 @@
-### ¡Hola, soy Andrés! 👋
+### ¡Hola, soy ANDRES! 👋
 
 > **"Data Scientist & Data Translator: Donde la profundidad analítica se encuentra con la estrategia de negocio."**
 
